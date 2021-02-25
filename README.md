@@ -23,6 +23,15 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
   <br/><br/>
+    <b>Currently active projects:</b><br>
+  <br/>
+  <img src="https://img.shields.io/badge/-Terraria%20Mod%20-%20Infernum:%20Your%20Living%20Hell-orange">
+  <img src="https://img.shields.io/badge/-Terraria%20Mod%20-%20Coolo's%20Cloud%20Mod-orange">
+  <img src="https://img.shields.io/badge/-Terraria%20Mod%20-%20Assembly%20Required:%20Marvel%20Meets%20Terraria-orange">
+  <img src="https://img.shields.io/badge/-Website%20-%20Req's%20Resort-gray">
+  <img src="https://img.shields.io/badge/-Discord%20Bot%20-%20Requital-blue">
+  <img src="https://img.shields.io/badge/-Discord%20Bot%20-%20Epic%20Gamer-blue">
+  <br/><br/>
   If you want to contact me, you can do so via email (justreqofficial@gmail.com), or my Discord user (@Just Req#0926).
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=JustReq&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats">
