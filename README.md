@@ -26,11 +26,13 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
     <b>Currently active projects:</b><br>
   <br/>
   <img src="https://img.shields.io/badge/Terraria%20Mod-Infernum%3A%20Your%20Living%20Hell-orange">
-  <img src="https://img.shields.io/badge/Terraria%20Mod-Coolo's%20Cloud%20Mod-orange">
-  <img src="https://img.shields.io/badge/Terraria%20Mod-Assembly%20Required%3A%20Marvel%20Meets%20TerrariaMod-orange">
+  <img src="https://img.shields.io/badge/Terraria%20Mod-Coolo's%20Cloud%20Mod-orange"><br>
+  <br/>
   <img src="https://img.shields.io/badge/Website-Req's%20Resort-blue">
   <img src="https://img.shields.io/badge/Discord%20Bot-Requital-green">
-  <img src="https://img.shields.io/badge/Discord%20Bot-Epic%20Gamer-green">
+  <img src="https://img.shields.io/badge/Discord%20Bot-Epic%20Gamer-green"><br>
+  <br/>
+  <img src="https://img.shields.io/badge/Terraria%20Mod-Assembly%20Required%3A%20Marvel%20Meets%20TerrariaMod-orange">
   <br/><br/>
   If you want to contact me, you can do so via email (justreqofficial@gmail.com), or my Discord user (@Just Req#0926).
   <br/><br/>
