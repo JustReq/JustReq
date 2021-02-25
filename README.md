@@ -27,7 +27,7 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
   <br/>
   <img src="https://img.shields.io/badge/Terraria%20Mod-Infernum%3A%20Your%20Living%20Hell-orange">
   <img src="https://img.shields.io/badge/Terraria%20Mod-Coolo's%20Cloud%20Mod-orange">
-  <img src="https://img.shields.io/badge/Terraria%20Mod-Assembly%20Required%3A-Marvel%20Meets%20Terraria-orange">
+  <img src="https://img.shields.io/badge/Terraria%20Mod-Assembly%20Required%3A%20Marvel%20Meets%20Terraria-orange">
   <br/>
   <img src="https://img.shields.io/badge/Discord%20Bot-Requital-green">
   <img src="https://img.shields.io/badge/Discord%20Bot-Epic%20Gamer-green"><br>
