@@ -31,7 +31,7 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
   <img src="https://img.shields.io/badge/Terraria%20Mod-Terraria%20Advancements-orange">
   <br/>
   <img src="https://img.shields.io/badge/Discord%20Bot-Requital-green">
-  <img src="https://img.shields.io/badge/Discord%20Bot-Epic%20Gamer-green">
+  <img src="https://img.shields.io/badge/Discord%20Bot-Randobot-green">
   <br/>
   <img src="https://img.shields.io/badge/Website-Req's%20Resort-blue">
   <br/><br/>
