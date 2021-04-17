@@ -35,7 +35,7 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
   <br/>
   <img src="https://img.shields.io/badge/Website-Req's%20Resort-blue">
   <br/><br/>
-  If you want to contact me, you can do so via email (justreqofficial@gmail.com), or my Discord user (@Just Req#0926).
+  If you want to contact me, you can do so via email (justreqofficial@gmail.com), or via my <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> Just Req#0926.
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=JustReq&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats">
   </p>
