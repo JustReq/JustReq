@@ -23,7 +23,7 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <br/><br/>
-    
+    <br>
   If you want to contact me, you can do so via email (justreqofficial@gmail.com), or via my Discord, Just Req#0926.
   <br/><br/>
   <a href="https://github-readme-stats.vercel.app/api?username=JustReq&show_icons=true&theme=gotham">
