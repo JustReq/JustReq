@@ -26,10 +26,6 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
     <br>
   If you want to contact me, you can do so via email (justreqofficial@gmail.com), or via my Discord, Just Req#0926.
   <br/><br/>
-  <a href="https://github-readme-stats.vercel.app/api?username=JustReq&show_icons=true&theme=gotham">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustReq&show_icons=true&theme=slateorange" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JustReq&langs_count=8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustReq&langs_count=8&theme=slateorange" />
-</a><br></br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustReq&langs_count=8&theme=slateorange" /><br></br>
   </p>
