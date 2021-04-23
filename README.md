@@ -29,4 +29,13 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
   <a href="https://github-readme-stats.vercel.app/api?username=JustReq&show_icons=true&theme=gotham">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustReq&show_icons=true&theme=slateorange" />
 </a>
+  
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JustReq&langs_count=8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustReq&langs_count=8&theme=slateorange" />
+</a><br></br>
+
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=JustReq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JustReq&theme=slateorange" />
   </p>
