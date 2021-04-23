@@ -38,4 +38,5 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=JustReq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JustReq&theme=slateorange" />
+  </a>
   </p>
