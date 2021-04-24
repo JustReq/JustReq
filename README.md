@@ -1,4 +1,4 @@
-### Ello!
+### Ello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
 I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you can come up with from my ever-expanding collection of identities. I program as a hobby (maybe for a job, who knows :/), mostly making Discord bots and Terraria mods.<br/><br/>
