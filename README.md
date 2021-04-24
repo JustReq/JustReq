@@ -1,4 +1,4 @@
-### Ello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ello!
 
 <p align="center">
 I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you can come up with from my ever-expanding collection of identities. I program as a hobby (maybe for a job, who knows :/), mostly making Discord bots and Terraria mods.<br/><br/>
@@ -28,5 +28,4 @@ I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you 
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=JustReq&show_icons=true&theme=slateorange" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustReq&theme=slateorange&layout=compact" /><br></br>
-  <img src="https://github-profile-trophy.vercel.app/?username=JustReq&theme=slateorange" />
   </p>
