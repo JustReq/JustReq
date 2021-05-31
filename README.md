@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ello!
 
 <p align="center">
-I'm Req, Marc, Marc & Cheese, Just Req, Requiem, Requias, and whatever else you can come up with from my ever-expanding collection of identities. I program as a hobby, mostly making Discord bots and Terraria mods.<br/><br/>
+I'm Req, and I make Terraria mods. That's pretty much it...<br/><br/>
   <b>I've programmed with</b><br>
   <br/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
